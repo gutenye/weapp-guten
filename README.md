@@ -2,7 +2,7 @@
 ```
 # app.js
 
-  import { Promise, fetch, wx } from './weapp-guten/index'
+  import { Promise, fetch, wx } from './weapp-shim/index'
 
 
   App({Promise, fetch, wx})
