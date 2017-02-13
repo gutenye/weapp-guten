@@ -1,0 +1,8 @@
+{
+  "name": "weapp-shim",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "gutenye/weapp-shim",
+  "author": "Guten Ye <ywzhaifei@gmail.com>",
+  "license": "MIT"
+}
